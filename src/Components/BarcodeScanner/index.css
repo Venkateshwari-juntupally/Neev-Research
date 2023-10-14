@@ -1,0 +1,19 @@
+/* BarcodeScanner.css */
+
+.scanner-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #scanner-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  .scanned-code {
+    margin: 20px 0;
+    font-weight: bold;
+  }
+  
